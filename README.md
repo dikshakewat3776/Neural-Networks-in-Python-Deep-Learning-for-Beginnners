@@ -28,5 +28,21 @@ Section 7 : Functional API Model for Complex NN
           c. Using Callbacks during training only for best models
           d. Using Early Stopping Callbacks and Save best model during training
           e. Hyperparameter Tuning
+          
+Section 8 : Data Preprocessing
 
+          a. Gathering Business Knowledge
+          b. Data Exploration
+          c. Dataset
+          d. Univariate Analysis
+          e. Outlier Treatment
+          f. Missing Value Imputation
+          g. Seasonality
+          h. Bivariate Analysis
+          i. Variable Transformation
+          j. Non-Usable Variables
+          k. Dummy Variable
+          l. Correlation
+          
+Section 9 : Simple Linear Regression
 
